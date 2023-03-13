@@ -164,7 +164,7 @@ class lunch_food {
         }
     }
 }
-public class food_booking_machine {
+public class Food_Ordering_System {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         lunch_food lf = new lunch_food();
